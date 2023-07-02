@@ -5,7 +5,7 @@
 Склонируйте репозиторий 
 
 ```bash
-git clone https://github.com/ilyamolokov/shri2023-testing-homework.git
+git clone https://github.com/ilyamolokov/testing-homework.git
 ```
 
 В корне папки проекта выполните команду `npm i` затем команду `npx playwright install`
